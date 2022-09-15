@@ -1,1 +1,1 @@
-Need to install MetaMask extension on your browser.
+Need to install MetaMask extension in your browser.
